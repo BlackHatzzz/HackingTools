@@ -4,7 +4,7 @@ This is a multitool with several hacking tools, hacking pages, learning pages, e
 
 is this virus or malwer?
 
-Of course not, only that some antivirus detect it as virus because it uses functions such as system () or automatically open applications, which is used to install python and git, since they are necessary to use the tools, I am also testing an anti vm system, but it is not virus or malwer or anything like that style
+Of course not, only that some antivirus detect it as virus because it uses functions such as system() or automatically open applications, which is used to install python and git, since they are necessary to use the tools, it is not virus or malwer or anything like that style
 
 How is it installed?
 
