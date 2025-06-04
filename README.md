@@ -6,6 +6,13 @@ is this virus or malwer?
 
 Of course not, only that some antivirus detect it as virus because it uses functions such as system () or automatically open applications, which is used to install python and git, since they are necessary to use the tools, I am also testing an anti vm system, but it is not virus or malwer or anything like that style
 
+How is it installed?
+
+1. Download the .zip
+2. Decompress the .zip
+3. Execute hackingtoools.exe
+4. Follow the instructions
+5. Enjoy!
 
 
 ![image](https://github.com/user-attachments/assets/1b33f0fb-328f-4d4f-ad81-260e12071406)
