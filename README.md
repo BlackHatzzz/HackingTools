@@ -10,7 +10,7 @@ How is it installed?
 
 1. Download the .zip
 2. Decompress the .zip
-3. Execute hackingtoools.exe
+3. Execute HackingTools.exe
 4. Follow the instructions
 5. Enjoy!
 
