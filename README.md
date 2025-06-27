@@ -2,7 +2,7 @@
 
 **Ultimate Hacker Arsenal Security: Dominate the Digital Realm**
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Build](https://img.shields.io/badge/Build-Passing-success.svg)
 
@@ -84,10 +84,15 @@ HackingTools.exe
 ## Features
 
 🔧 Hacking Tools: Essential cybersecurity utilities and exploitation frameworks
+
 🌐 Hacking Pages: Curated collection of security-focused websites and resources
+
 📚 Learn Hacking Pages: Educational platforms and tutorials for cybersecurity learning
+
 🕵️ Secret Hacking Menu: Hidden tools and advanced penetration testing features
+
 🎮 Free Optimized Games Page: High-performance gaming collection with system optimization
+
 ---
 
 ## Contributing
