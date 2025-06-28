@@ -3,7 +3,7 @@
 **Ultimate Hacker Arsenal Security: Dominate the Digital Realm**
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-lightgrey.svg)
 ![Build](https://img.shields.io/badge/Build-Passing-success.svg)
 
 *Suit up! The best hacking toolbox and methodologies*
