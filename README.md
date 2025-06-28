@@ -119,19 +119,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 - 💬 **Discord:** [Join our community](https://dsc.gg/hacking-comunity)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/yourusername/hackingtools/issues)
+- 🐛 **Issues:** [GitHub Issues](https://github.com/BlackHatzzz/HackingTools/issues)
 
 ---
 
 **Made with ❤️ by the BlackHat**
 
-![image](https://github.com/user-attachments/assets/1b33f0fb-328f-4d4f-ad81-260e12071406)
+![image](https://github.com/user-attachments/assets/eee8f564-937e-4345-85fc-981abbe0e9f2)
+
+![image](https://github.com/user-attachments/assets/03a697e3-4795-4627-84e2-2367442646e6)
+
+![image](https://github.com/user-attachments/assets/6e12ba5d-53e5-40a5-acda-d52e6493a1a7)
+
+![image](https://github.com/user-attachments/assets/5eadb146-d9d2-4247-8a15-f5ebcb2d46c5)
 
 
 
-![image](https://github.com/user-attachments/assets/3856cafc-dfaa-45cc-a7c5-58af8ec8b5c4)
 
-
-![image](https://github.com/user-attachments/assets/ffc28972-7f2c-422f-a4ac-2020810e9d9c)
 
 
