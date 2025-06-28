@@ -56,8 +56,6 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 
-Build HackingTools from the source and install dependencies:
-
 **Clone the repository:**
 ```bash
 git clone https://github.com/BlackHatzzz/HackingTools.git
