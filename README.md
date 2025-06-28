@@ -8,9 +8,9 @@
 
 *Suit up! The best hacking toolbox and methodologies*
 
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen.svg)](https://github.com/yourusername/hackingtools/releases)
-[![Issues](https://img.shields.io/github/issues/yourusername/hackingtools.svg)](https://github.com/yourusername/hackingtools/issues)
-[![Stars](https://img.shields.io/github/stars/yourusername/hackingtools.svg)](https://github.com/yourusername/hackingtools/stargazers)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen.svg)](https://github.com/BlackHatzzz/HackingTools/releases)
+[![Issues](https://img.shields.io/github/issues/BlackHatzzz/hackingtools.svg)](https://github.com/BlackHatzzz/HackingTools/issues)
+[![Stars](https://img.shields.io/github/stars/BlackHatzzz/hackingtools.svg)](https://github.com/BlackHatzzz/HackingTools/stargazers)
 
 ---
 
@@ -64,7 +64,7 @@ Build HackingTools from the source and install dependencies:
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/hackingtools.git
+git clone https://github.com/BlackHatzzz/HackingTools.git
 ```
 
 **Navigate to the project directory:**
