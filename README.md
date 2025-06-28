@@ -17,11 +17,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Testing](#testing)
 
 ---
 
@@ -46,8 +44,6 @@ This project aims to simplify cybersecurity exploration, testing, and skill impr
 🎮 Free Optimized Games Page: Extensive collection of high-performance free games with system optimization
 
 ---
-
-## Getting Started
 
 ### Prerequisites
 
