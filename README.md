@@ -2,8 +2,8 @@
 
 **Ultimate Hacker Arsenal Security: Dominate the Digital Realm**
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-lightgrey.svg)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/release/python-3110/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![Build](https://img.shields.io/badge/Build-Passing-success.svg)
 
 *Suit up! The best hacking toolbox and methodologies*
@@ -100,7 +100,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC BY-NC 4.0 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
